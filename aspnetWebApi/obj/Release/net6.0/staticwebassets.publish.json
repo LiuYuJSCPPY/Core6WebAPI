@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sSyNgrOihsFj4WnL+3JQi0wlyCv2hCdM2Wr7IbK2qaE=",
+  "Source": "aspnetWebApi",
+  "BasePath": "_content/aspnetWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
